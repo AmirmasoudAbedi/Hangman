@@ -460,3 +460,8 @@ body {
 .title {
     font-family : Tahoma;
 }
+
+* {
+    max-width: 100%;
+    height: auto;
+}
